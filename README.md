@@ -6,7 +6,8 @@ The tool works by tracking an object with a particular color. This is done by us
 
 Here I am tracking a pink color to make the drawing on the live camera feed window(Web cam feed).
 
-We can make the code track any color my providing the lower and upper bounds of that particular colour. This can be found out by a samll program that I have provided here as well.
+We can make the code track any color my providing the lower and upper bounds of that particular colour. This can be found out by a small program that I have provided here as well.
+The code has scroll bar which you can use to extract the lower and upper bound of the desired color. This bounds can be fed into the main code to write using that color on the webcam screen.
 
 
 ### Readme is yet to be completed
